@@ -1,16 +1,16 @@
 {
   "main.css": "/MushroomWeb/static/css/main.cacde6ce.chunk.css",
-  "main.js": "/MushroomWeb/static/js/main.be30590f.chunk.js",
-  "main.js.map": "/MushroomWeb/static/js/main.be30590f.chunk.js.map",
+  "main.js": "/MushroomWeb/static/js/main.0aef5c2d.chunk.js",
+  "main.js.map": "/MushroomWeb/static/js/main.0aef5c2d.chunk.js.map",
   "static/js/1.68d85c9b.chunk.js": "/MushroomWeb/static/js/1.68d85c9b.chunk.js",
   "static/js/1.68d85c9b.chunk.js.map": "/MushroomWeb/static/js/1.68d85c9b.chunk.js.map",
   "static/js/2.c2d6b731.chunk.js": "/MushroomWeb/static/js/2.c2d6b731.chunk.js",
   "static/js/2.c2d6b731.chunk.js.map": "/MushroomWeb/static/js/2.c2d6b731.chunk.js.map",
   "runtime~main.js": "/MushroomWeb/static/js/runtime~main.b37b3c25.js",
   "runtime~main.js.map": "/MushroomWeb/static/js/runtime~main.b37b3c25.js.map",
-  "static/media/font.css": "/MushroomWeb/static/media/MaplestoryBold.b0a6a269.ttf",
+  "static/media/font.css": "/MushroomWeb/static/media/MaplestoryLight.fb932d04.ttf",
   "static/css/main.cacde6ce.chunk.css.map": "/MushroomWeb/static/css/main.cacde6ce.chunk.css.map",
   "index.html": "/MushroomWeb/index.html",
-  "precache-manifest.c64551c6fb5286b3a1491873d10c65f0.js": "/MushroomWeb/precache-manifest.c64551c6fb5286b3a1491873d10c65f0.js",
+  "precache-manifest.92e3edf3faa353122f17c00fe8817f4c.js": "/MushroomWeb/precache-manifest.92e3edf3faa353122f17c00fe8817f4c.js",
   "service-worker.js": "/MushroomWeb/service-worker.js"
 }
