@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MushroomWeb/precache-manifest.729d9d956f482c6d938b41753616204d.js"
+  "/MushroomWeb/precache-manifest.986ac3892716f99cbb0d7248e87b1eb0.js"
 );
 
 workbox.clientsClaim();
